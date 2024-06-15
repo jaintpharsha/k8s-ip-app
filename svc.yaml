@@ -5,7 +5,7 @@ metadata:
 spec:
   type: NodePort
   selector:
-    app: ip-app
+    app: ip-appa
   ports:
   - name: http
     port: 30002
